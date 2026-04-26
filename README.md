@@ -13,9 +13,7 @@
 
 ## 📋 Description
 
-Welcome to the **DSSS 2026 HackML Registration Portal** – your one-stop shop for joining the most electrifying machine learning hackathon of the year! 
-
-This portal was built with radical retro aesthetics and cutting-edge tech to bring you a nostalgic yet modern registration experience. Built by the DSSS team, this registration system captures the groovy spirit of the 80s while handling all the logistics you need to join the HackML 2026 hackathon.
+Built this registration portal for the DSSS HackML 2026 hackathon with a groovy retro aesthetic. It handles all the sign-ups, team management, and event info while keeping those radical 80s vibes alive!
 
 🎯 **Features:**
 - ✨ Smooth retro-themed user experience
