@@ -23,5 +23,3 @@ Built this registration portal for the DSSS HackML 2026 hackathon with a groovy 
 - 🎨 Beautiful retro UI with modern performance
 
 ---
-
-**Let's revolutionize machine learning, retro style! 🚀**
